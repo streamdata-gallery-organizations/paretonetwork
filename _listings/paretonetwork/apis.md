@@ -8,8 +8,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28734-www-
 x-kinRank: "7"
 x-alexaRank: "884775"
 tags: ParetoNetwork
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-30"
+modified: "2018-08-30"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/paretonetwork/master/_listings/paretonetwork/apis.md
 specificationVersion: "0.14"
 apis:
